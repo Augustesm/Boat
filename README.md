@@ -1,2 +1,2 @@
 # Boat
-3D model boat created using Blender
+🚤 Dive into the world of 3D modeling with my latest creation – a meticulously crafted boat model designed using Blender. 🌊
